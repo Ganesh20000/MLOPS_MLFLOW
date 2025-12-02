@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/231421456027793530/00376a354b8347ee808e31b45a6b9890/artifacts
+end_time: 1764617129868
+entry_point_name: ''
+experiment_id: '231421456027793530'
+lifecycle_stage: active
+run_id: 00376a354b8347ee808e31b45a6b9890
+run_name: upset-cub-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764617120665
+status: 3
+tags: []
+user_id: karli

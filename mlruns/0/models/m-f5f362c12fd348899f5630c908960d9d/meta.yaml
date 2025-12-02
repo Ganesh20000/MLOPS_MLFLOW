@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/0/models/m-f5f362c12fd348899f5630c908960d9d/artifacts
+creation_timestamp: 1764653710529
+experiment_id: '0'
+last_updated_timestamp: 1764653718431
+model_id: m-f5f362c12fd348899f5630c908960d9d
+model_type: ''
+name: Random forest model
+source_run_id: 801fbd21ccd44d6c830d75fcee93ed88
+status: 2
+status_message: null

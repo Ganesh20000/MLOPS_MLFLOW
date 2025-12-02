@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/0/4f638ce2aba04cfb9c200073e5ffc2ca/artifacts
+deleted_time: 1764615403528
+end_time: 1764614282172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4f638ce2aba04cfb9c200073e5ffc2ca
+run_name: secretive-koi-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764614282113
+status: 3
+tags: []
+user_id: karli

@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/231421456027793530/models/m-fbf56aaf904845a28003337c7d02f95d/artifacts
+creation_timestamp: 1764653727407
+experiment_id: '231421456027793530'
+last_updated_timestamp: 1764653732504
+model_id: m-fbf56aaf904845a28003337c7d02f95d
+model_type: ''
+name: Random forest model
+source_run_id: 51d5bf2beea1409eb01ce3a77121c5a0
+status: 2
+status_message: null

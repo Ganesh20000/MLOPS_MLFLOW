@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/0/c1e1e1fb56e240eeb2c7407827e417d3/artifacts
+end_time: 1764615144147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1e1e1fb56e240eeb2c7407827e417d3
+run_name: painted-skunk-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764615144096
+status: 3
+tags: []
+user_id: karli

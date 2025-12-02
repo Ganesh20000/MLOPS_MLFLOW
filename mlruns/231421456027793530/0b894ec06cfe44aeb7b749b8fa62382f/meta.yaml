@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/231421456027793530/0b894ec06cfe44aeb7b749b8fa62382f/artifacts
+end_time: 1764617073500
+entry_point_name: ''
+experiment_id: '231421456027793530'
+lifecycle_stage: active
+run_id: 0b894ec06cfe44aeb7b749b8fa62382f
+run_name: sedate-bass-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764617072885
+status: 4
+tags: []
+user_id: karli

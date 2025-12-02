@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/231421456027793530/24edd4c24772454780a0ea9c62e80031/artifacts
+end_time: 1764616192314
+entry_point_name: ''
+experiment_id: '231421456027793530'
+lifecycle_stage: active
+run_id: 24edd4c24772454780a0ea9c62e80031
+run_name: unequaled-panda-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764616191749
+status: 3
+tags: []
+user_id: karli

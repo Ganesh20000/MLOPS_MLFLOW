@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/231421456027793530/51d5bf2beea1409eb01ce3a77121c5a0/artifacts
+end_time: 1764653732521
+entry_point_name: ''
+experiment_id: '231421456027793530'
+lifecycle_stage: active
+run_id: 51d5bf2beea1409eb01ce3a77121c5a0
+run_name: charming-shrew-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764653726974
+status: 3
+tags: []
+user_id: karli

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/0/3fd704fa48fb42709c4e843801c1d753/artifacts
+deleted_time: 1764615403525
+end_time: 1764613915415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fd704fa48fb42709c4e843801c1d753
+run_name: grandiose-smelt-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764613915217
+status: 3
+tags: []
+user_id: karli

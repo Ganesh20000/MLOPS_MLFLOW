@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/704773651741842662/9eb44f373d024cb78742cf400f71bbff/artifacts
+end_time: 1764664672391
+entry_point_name: ''
+experiment_id: '704773651741842662'
+lifecycle_stage: active
+run_id: 9eb44f373d024cb78742cf400f71bbff
+run_name: crawling-roo-461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764664665340
+status: 3
+tags: []
+user_id: karli

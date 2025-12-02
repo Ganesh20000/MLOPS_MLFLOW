@@ -1,0 +1,20 @@
+import dagshub
+dagshub.init(repo_owner='ganeshkarli19', repo_name='MLOPS_MLFLOW', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
+
+
+
+ the tracking uri is this 
+ https://dagshub.com/ganeshkarli19/MLOPS_MLFLOW.mlflow
+
+  mlflow.set_tracking_uri("https://dagshub.com/ganeshkarli19/MLOPS_MLFLOW.mlflow")
+
+
+Avoid the registry call — save locally and upload artifacts
+This is the simplest, most reliable approach with remote tracking servers 
+that don’t implement registry APIs. Save the sklearn model to a local folder and 
+then mlflow.log_artifacts() that folder (you already had this idea commented out). Example:

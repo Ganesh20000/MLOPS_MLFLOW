@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/128595497349622952/35a207a83f944725aee8d61f838cf61b/artifacts
+end_time: 1764615838695
+entry_point_name: ''
+experiment_id: '128595497349622952'
+lifecycle_stage: active
+run_id: 35a207a83f944725aee8d61f838cf61b
+run_name: puzzled-grub-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764615838246
+status: 3
+tags: []
+user_id: karli

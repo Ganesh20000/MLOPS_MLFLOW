@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/karli/OneDrive/Desktop/all/python/MLOPS/day-6/mlruns/0/801fbd21ccd44d6c830d75fcee93ed88/artifacts
+end_time: 1764653718449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 801fbd21ccd44d6c830d75fcee93ed88
+run_name: redolent-turtle-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764653673032
+status: 3
+tags: []
+user_id: karli
